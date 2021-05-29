@@ -1,0 +1,21 @@
+<style type="text/css">
+	body {
+  		background-image: url('https://www.elle.vn/wp-content/uploads/2018/07/21/anh-flatlay-0.jpg');
+  	}
+</style>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>www.dailyblog.com</title>
+	{% include 'snippets/header.html' %}
+</head>
+<body>
+	<!--Body-->
+	<div class="main">
+		{% block content %}
+		{% endblock content %}
+	</div>
+	
+	{% include 'snippets/footer.html' %}
+</body>
+</html>
