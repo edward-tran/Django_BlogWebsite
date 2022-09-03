@@ -1,2 +1,2 @@
-# Django_BlogWebsite
-A Blog Website using Django MVT
+A-Basic-Blog-Website
+Python-Django
