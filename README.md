@@ -1,2 +1,2 @@
-#A-Basic-Blog-Website
-Python-Django
+A-Basic-Blog-Website
+Python, Django
